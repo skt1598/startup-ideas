@@ -4,6 +4,14 @@ Welcome to the Startup Ideas Repository! 🚀
 
 This repository is a collaborative space for sharing and brainstorming innovative startup ideas. Whether you're an entrepreneur, developer, designer, or just someone with a creative mind, feel free to contribute your ideas or explore the ideas shared by others.
 
+## About
+
+The focus of this repository is to collect, curate, and promote startup ideas that address pressing social challenges, promote equality, sustainability, and overall well-being. 
+
+By utilizing the collective creativity and expertise of our community, we aim to inspire actionable solutions that drive positive impact and bring about meaningful change. 
+
+However, we welcome ideas beyond these specific areas, recognizing that innovation can arise from diverse perspectives and problem-solving approaches.
+
 ## How to Contribute
 
 Contributing to this repository is easy! Simply follow these steps:
