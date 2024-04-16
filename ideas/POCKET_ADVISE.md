@@ -14,6 +14,11 @@ With greater access to legal knowledge, individuals can make informed decisions,
 
 __Ultimately, `POCKET_ADVISE` should aim to reach everyone's, ensuring that even those in the farthest corners of the earth with access to any smart device can benefit.__
 
+## Author: 
+  Shrikant Sharma (Shri)
+
+  Github: skt1598
+
 
 
 
