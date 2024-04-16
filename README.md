@@ -36,5 +36,5 @@ Contributing to this repository is easy! Simply follow these steps:
 
 3. **Submit a Pull Request**: O
 
-**Sample Idea**: [POCKET_ADVISE](https://github.com/skt1598/startup-ideas/edit/main/ideas/POCKET_ADVISE.md#pocket_advise)
+**Sample Idea**: [POCKET_ADVISE](https://github.com/skt1598/startup-ideas/blob/main/ideas/POCKET_ADVISE.md)
 
