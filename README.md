@@ -15,19 +15,23 @@ Contributing to this repository is easy! Simply follow these steps:
     ```markdown
     # Idea Title
 
-    **Problem**: [Briefly describe the problem your idea solves.]
+    - Problem: Briefly describe the problem your idea solves.
 
-    **Solution**: [Explain your startup idea and how it addresses the problem.]
+    - Solution: Explain your startup idea and how it addresses the problem.
+    
+    > Note: The first two items are compulsory.
+    
+    - Market Potential: Discuss the market potential and target audience for your idea.
+    
+    - Competitive Landscape: Analyze existing competitors or similar solutions in the market.
+    
+    - Execution Plan: Outline a high-level plan for executing the idea, including key milestones.
+    
+    - Additional Notes: Include any additional information or thoughts about your idea.
+    
+    - Author: Your Name or GitHub Username
 
-    **Market Potential**: [Discuss the market potential and target audience for your idea.]
 
-    **Competitive Landscape**: [Analyze existing competitors or similar solutions in the market.]
-
-    **Execution Plan**: [Outline a high-level plan for executing the idea, including key milestones.]
-
-    **Additional Notes**: [Include any additional information or thoughts about your idea.]
-
-    **Author**: [Your Name or GitHub Username]
     ```
 
 3. **Submit a Pull Request**: O
